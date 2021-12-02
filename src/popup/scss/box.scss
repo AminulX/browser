@@ -540,6 +540,10 @@
             max-height: 20px;
             max-width: 20px;
         }
+
+        &.send {
+            margin-top: 12px;
+        }
     }
 
     &.totp {
